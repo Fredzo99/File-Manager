@@ -1,61 +1,58 @@
-File Manager
-===========
-[![Backers on Open Collective](https://opencollective.com/openintents/backers/badge.svg)](#backers)
- [![Sponsors on Open Collective](https://opencollective.com/openintents/sponsors/badge.svg)](#sponsors) 
+# File Manager
 
-OpenIntents file manager, see [the website](http://www.openintents.org/en/filemanager)
+Welcome to the File Manager, a Java-based project developed by Fredzo99. This project serves as a simple file management system, allowing users to interact with files and directories.
 
-Requires [distribution library](https://github.com/openintents/distribution) to build (available through jitpack).
+## Overview
 
-License
---------
+The File Manager is written entirely in Java (100%). It provides basic file operations, such as creating, deleting, and navigating through directories, making it a useful tool for managing files on your computer.
 
-    Copyright (C) 2007-2014 OpenIntents.org
+## Getting Started
 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
+To run the File Manager locally, follow these steps:
 
-       https://www.apache.org/licenses/LICENSE-2.0
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Fredzo99/File-Manager.git
+   ```
 
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+2. Navigate to the project directory:
+   ```bash
+   cd File-Manager
+   ```
 
-Download
---------
+3. Compile and run the Java application.
 
-* [F-Droid](https://f-droid.org/repository/browse/?fdid=org.openintents.filemanager)
-* [Google Play Store](https://play.google.com/store/apps/details?id=org.openintents.filemanager)
+## Features
 
-## Contributors
+- **File Operations**: Perform common file operations, including creating, deleting, and moving files and directories.
 
-This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)].
-<a href="graphs/contributors"><img src="https://opencollective.com/openintents/contributors.svg?width=890&button=false" /></a>
+- **Directory Navigation**: Easily navigate through directories to locate and manage files.
 
+## Contributing
 
-## Backers
+Feel free to contribute to the project by making edits or commits to enhance functionality, fix bugs, or add new features. Follow these steps:
 
-Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/openintents#backer)]
+1. Fork the repository.
+2. Create a new branch for your changes:
+   ```bash
+   git checkout -b feature/new-feature
+   ```
+3. Make your changes and commit them:
+   ```bash
+   git commit -m "Add new feature"
+   ```
+4. Push to the branch:
+   ```bash
+   git push origin feature/new-feature
+   ```
+5. Create a pull request.
 
-<a href="https://opencollective.com/openintents#backers" target="_blank"><img src="https://opencollective.com/openintents/backers.svg?width=890"></a>
+## License
 
+This project is licensed under the [MIT License](LICENSE).
 
-## Sponsors
+## Contact
 
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/openintents#sponsor)]
+If you have any questions, feedback, or suggestions, feel free to reach out to Fredzo99.
 
-<a href="https://opencollective.com/openintents/sponsor/0/website" target="_blank"><img src="https://opencollective.com/openintents/sponsor/0/avatar.svg"></a>
-<a href="https://opencollective.com/openintents/sponsor/1/website" target="_blank"><img src="https://opencollective.com/openintents/sponsor/1/avatar.svg"></a>
-<a href="https://opencollective.com/openintents/sponsor/2/website" target="_blank"><img src="https://opencollective.com/openintents/sponsor/2/avatar.svg"></a>
-<a href="https://opencollective.com/openintents/sponsor/3/website" target="_blank"><img src="https://opencollective.com/openintents/sponsor/3/avatar.svg"></a>
-<a href="https://opencollective.com/openintents/sponsor/4/website" target="_blank"><img src="https://opencollective.com/openintents/sponsor/4/avatar.svg"></a>
-<a href="https://opencollective.com/openintents/sponsor/5/website" target="_blank"><img src="https://opencollective.com/openintents/sponsor/5/avatar.svg"></a>
-<a href="https://opencollective.com/openintents/sponsor/6/website" target="_blank"><img src="https://opencollective.com/openintents/sponsor/6/avatar.svg"></a>
-<a href="https://opencollective.com/openintents/sponsor/7/website" target="_blank"><img src="https://opencollective.com/openintents/sponsor/7/avatar.svg"></a>
-<a href="https://opencollective.com/openintents/sponsor/8/website" target="_blank"><img src="https://opencollective.com/openintents/sponsor/8/avatar.svg"></a>
-<a href="https://opencollective.com/openintents/sponsor/9/website" target="_blank"><img src="https://opencollective.com/openintents/sponsor/9/avatar.svg"></a>
-
-
+Thank you for using the File Manager!
